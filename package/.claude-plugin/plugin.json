@@ -1,0 +1,8 @@
+{
+  "name": "my-agent",
+  "version": "1.0.0",
+  "description": "my-agent agent package.",
+  "author": {
+    "name": "Smart Harness"
+  }
+}
